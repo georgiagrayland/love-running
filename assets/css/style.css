@@ -240,3 +240,27 @@ hr
 {
     color: #fafafa;
 }
+
+footer 
+{
+    height: 150px;
+}
+
+.social-networks
+{
+    text-align: center;
+    display: inline;
+}
+
+.social-networks > li
+{
+    display: inline;
+}
+
+.social-networks i
+{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
